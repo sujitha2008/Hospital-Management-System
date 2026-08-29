@@ -1,9 +1,10 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040436
 
+# Name:SUJITHA S
+
+# Date:01-09-26
 
 # AIM:
 To develop the Hospital Management System using Star UML.
@@ -41,9 +42,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
+<img width="1066" height="655" alt="Screenshot 2026-08-29 183150" src="https://github.com/user-attachments/assets/87e3f6c9-e17c-43ad-9773-d30836157f85" />
 
 
 # CLASS DIAGRAM
@@ -60,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1068" height="721" alt="Screenshot 2026-08-29 195556" src="https://github.com/user-attachments/assets/28a2012b-5910-4fdc-8a53-7d57889d6a00" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,7 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
+<img width="1031" height="847" alt="Screenshot 2026-08-29 202655" src="https://github.com/user-attachments/assets/37ee7dd1-2ccb-415b-a77f-75621141c499" />
 
 
 # PACKAGE DIAGRAM:
@@ -98,8 +98,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+<img width="358" height="798" alt="Screenshot 2026-08-29 202655" src="https://github.com/user-attachments/assets/77a6a2c8-973e-4d01-862a-b7ef1dbf2d9a" />
 
 
 # SEQUENCE DIAGRAM
